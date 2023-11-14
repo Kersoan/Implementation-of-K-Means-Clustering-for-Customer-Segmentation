@@ -1,6 +1,6 @@
 # Ex--07--Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
-## AIM:
+## AIM: 
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
 ## Equipments Required:
